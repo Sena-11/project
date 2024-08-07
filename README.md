@@ -18,4 +18,5 @@ Para inicializar el servidor en local para su desarrollo:
         ```
 ## Directorio
 Su directorio finalmente se debería ver de la siguiente manera:
+
 ![img](https://res.cloudinary.com/dvdhtdzwp/image/upload/v1723048455/ncyfchcbhbxb8cmdof2m.jpg)
